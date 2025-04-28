@@ -1,0 +1,215 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Inter', sans-serif;
+    flex-wrap: wrap;
+}
+
+/* body *
+{
+    border: 1px solid #000;
+} */
+
+.Tshirt,.three-card,.action,.message,#bu1
+{
+    background: #a8d741;
+}
+
+#h11
+{
+    font-size:10px  ;
+}
+
+.card
+{
+    width: 350px;
+}
+
+#card-col
+{
+    width:600px;
+}
+    
+.our-features
+{
+
+    display:flex;
+    flex-direction:column;
+    text-align: center;
+}
+
+.logo
+{
+    width:90px;
+}
+
+#ff1
+{
+
+   font-size:70px;
+}
+
+#ca1,.col-partner
+{
+
+    width:330px !important;
+}
+
+
+
+#img-1
+{
+
+    width: 500px;
+}
+
+.img-1
+{
+    height:230px;
+}
+
+
+
+.price
+{
+    font-size:60px;
+}
+
+#i1
+{
+    height:300px;
+}
+
+.yt-logo
+{
+    transform: translate(-50%,-50%);
+    font-size: 60px;
+}
+
+#p1
+{
+    width:350px;
+}
+
+.black-guy
+{
+    width:100%;
+}
+
+.phone-div
+{
+    /* width:620px; */
+}
+
+span
+{
+    width:30px;
+    height:30px;
+    background: #000;
+    color:#fff;
+}
+
+.l1-info
+{
+    width:450px;
+}
+
+.navbar-toggler-icon
+{
+    background:transparent;
+    color: #000;
+}
+
+#sp1
+{
+    color:#a8d741;
+}
+
+#abi
+{
+    /* display:block !important; */
+}
+
+#bu1
+{  
+    box-shadow:0px 1px 2px #00000055;
+}
+
+#bu1,#bu2,.left-scale,.review,#main-btn
+{
+    transition:.3s;
+}
+
+#bu1:hover
+{
+    background:#fff;
+    color: #000;
+    box-shadow: 0px 3px 15px #1e1e1e65;
+}
+
+#main-btn
+{
+    border:none !important;
+    outline: 2px solid #fff;
+}
+
+#main-btn:hover
+{
+    background: #fff !important;
+    color: #000 !important;
+    outline: 2px solid #000 !important;
+    box-shadow: 0px 3px 12px #0c0c0c91 !important;
+}
+
+#bu1:hover #sp1
+{
+    color: #fff;
+}
+
+#bu1:hover,#bu2:hover,#main-btn:hover
+{
+    transform: rotate(3deg) scale(1.115);
+}
+
+#bu2:hover
+{
+    background: #a8d741;
+}
+
+#h11
+{
+    font-size:5vw !important;
+}
+
+.col-review
+{
+    width:450px;
+}
+
+.black-guy
+{
+    width:650px;
+}
+
+#right-btns
+{
+    margin-top:30%;
+}
+
+.left-scale
+{
+    width:600px;
+}
+
+.left-scale:hover,.review:hover
+{
+    transform: rotate(-1deg) scale(1.04);   
+    box-shadow:-1px 10px 15px #72727251;
+}
+
+.a1:hover
+{
+    color: #aad741a6;
+}

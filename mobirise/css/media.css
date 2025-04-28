@@ -1,0 +1,98 @@
+@media (max-width:1400px)
+{
+    .logo-info #lp
+    {
+        text-align:left;
+    }
+}
+
+@media (max-width:768px)
+{
+    .two-button
+    {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #img-1
+    {
+        width:250px;
+        align-self: center;
+    }
+
+    #img-1 img
+    {
+        width:100%;
+    }
+
+    .l1-info
+    {
+        width:250px !important;
+    }
+
+    .col-review
+    {
+        width:550px;
+        padding:20px 0;
+        transform: translateX(-50px);
+    }
+
+    .phone-div,.cp
+    {
+        margin:auto;
+    }
+
+    .team
+    {
+        text-align: center;
+    }
+
+    .tprow
+    {
+        gap:10px;
+    }
+
+    .logo-info
+    {
+        margin: auto;
+    }
+
+    #col1
+    {
+        text-align: center;
+    }
+
+    .logo-info #lp {
+        text-align: center;
+    }
+
+    #au1
+    {
+        display: flex;
+        justify-content: left;
+    }
+    
+}
+
+@media (max-width:576px)
+{
+    #card-col,.three-card
+    {
+        text-align: center !important;
+    }
+
+    #img-1
+    {
+        width: 100%;
+    }
+
+    .bar-1
+    {
+        justify-content: center;
+    }
+
+    .card-btn
+    {   
+        margin: auto !important;
+    }
+}
