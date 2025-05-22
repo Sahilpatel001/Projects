@@ -420,5 +420,15 @@
         right: 40px !important;
         bottom: 70px;
    }
+
+   .news
+   {
+        flex-direction: column !important;
+   }
+
+   .grenade:nth-child(3)
+   {
+        display: none;
+   }
 }
 
